@@ -3,7 +3,7 @@
 
 ### What am I working on?👨‍💻
 - I am learning react⚛️
-- I am crating LitNIS website📙
+- I am creating LitNIS website📙
 
 ### Contacts
 yerassyl.abylkassym@gmail.com
