@@ -5,9 +5,7 @@
 - I am learning react <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - I am creating LitNIS website📙
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EraOfCoding&show_icons=true&include_all_commits=true&theme=material-palenight" alt="EraOfCoding's github stats" />
-</a>
+![Yerassyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=EraOfCoding&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535&show_icons=true)
 
 ### Contacts
 yerassyl.abylkassym@gmail.com
