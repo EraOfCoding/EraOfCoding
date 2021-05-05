@@ -6,7 +6,7 @@
 
 I can also create you a website: https://www.fiverr.com/share/PmgeeG
 
-### Contact
+### Contacts
 Ask me any question:
 yerassyl.abylkassym@gmail.com
 
