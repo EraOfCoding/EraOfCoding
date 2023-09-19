@@ -1,12 +1,12 @@
-# Hi! I'm Yerassyl, student from Kazakhstan - EraOfCoding
-Love programming, engineering 🤖 💻
+# Hi! I'm Yerassyl, student from Almaty, Kazakhstan! 
+I am passionate about Artificial Intelligence, Robotics and Engineering 🤖 💻
 
 ### Experience in:
-- React js
-- Flutter
-- ML with TensorFlow
-
-I also can create you a website in React with Firebase db.
+- Web development
+- App development 
+- Machine Learning
+- Quantum Machine Learning
+- Prompt engineering
 
 ### Contacts
 yerassyl.abylkassym@gmail.com
