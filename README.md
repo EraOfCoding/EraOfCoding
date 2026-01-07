@@ -1,8 +1,7 @@
 ### About me:
 
-- **UBC Computer Science + Statistics.**
-- **Full ride scholarship recipient.**
-- **Passionate about robotics, diffusion models, and reinforcement learning.**
+- **UBC Freshman -> Aspiring Computer Science + Statistics major.**
+- **Passionate about robotics, machine learning, and software engineering.**
 
 ### Skills:
 - **Robotics:** ROS 2
